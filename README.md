@@ -10,7 +10,7 @@ If you already installed your desktop and xrdp with following similar commands:
 - apt install ubuntu-desktop
 
 You can run this command to add sound support to your Ubuntu desktop:
-wget https://github.com/bielsilva713/xrdp4arm/install_xrdp_audio.sh && bash install_xrdp_audio.sh
+wget https://raw.githubusercontent.com/bielsilva713/xrdp4arm/main/install_xrdp_audio.sh && bash install_xrdp_audio.sh
 
 
 
